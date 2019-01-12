@@ -1,10 +1,6 @@
-# 100 Days Of ML Code with Bangkok AI
+# 100 Days Of ML Code with CITY.AI
 
-Big thianks for Siraj Raval for his original initiation and idea (https://youtu.be/cuQMBj1cWPo)
-please share this on solcial media with #100DaysOfMLCode to give a shout out for him
-
-
-## Code Together with Bangkok AI - FREE!! 100 Days of ML Code Challenge
+## Code Together with CITY.AI - FREE!! 100 Days of ML Code Challenge
 
 ### Week 1: All Required Basics**
 
@@ -108,3 +104,7 @@ please share this on solcial media with #100DaysOfMLCode to give a shout out for
 - Tensorflow
 - Cloud services (to be announce)
 
+## For more information please visit out event bright event page here: https://www.eventbrite.com/e/code-together-with-bangkok-ai-free-100-days-of-ml-code-challenge-tickets-54478303071
+
+## Note: Big thianks for Siraj Raval for his original initiation and idea (https://youtu.be/cuQMBj1cWPo)
+please share this on social media with #100DaysOfMLCode to give a shout out for him
